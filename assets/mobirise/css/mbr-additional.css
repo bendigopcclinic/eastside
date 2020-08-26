@@ -1104,7 +1104,7 @@ a {
 }
 .cid-s5SEBA72Ps {
   padding-top: 75px;
-  padding-bottom: 60px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-s5SEBA72Ps .row {
@@ -1431,7 +1431,7 @@ a {
 .cid-s8uaRQXKQi {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/background315.jpg");
+  background-image: url("../../../assets/images/background317.jpg");
 }
 .cid-s8uaRQXKQi .wrapping {
   padding: 3rem;
@@ -2500,7 +2500,7 @@ a {
 .cid-s8uaMbaA7w {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/background315.jpg");
+  background-image: url("../../../assets/images/background317.jpg");
 }
 .cid-s8uaMbaA7w .wrapping {
   padding: 3rem;
@@ -2641,33 +2641,28 @@ a {
   right: auto;
   left: 0;
 }
-.cid-s8eKmoJSbp {
-  padding-top: 30px;
-  padding-bottom: 45px;
+.cid-s8JGoou5ra {
+  padding-top: 45px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-s8eKmoJSbp .row {
+.cid-s8JGoou5ra .row {
   flex-direction: row-reverse;
 }
-.cid-s8eKmoJSbp .img-wrap {
-  display: block;
-  position: absolute;
-  right: 0;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  background-position: 50% 50%;
-  z-index: 2;
-  background-image: url("../../../assets/images/03.jpg");
+.cid-s8JGoou5ra .img-wrap img {
+  width: 100%;
 }
-.cid-s8eKmoJSbp .card {
+.cid-s8JGoou5ra .card {
   border-radius: 0;
   margin: auto 0;
 }
-.cid-s8eKmoJSbp .card .wrapper .mbr-section-title {
+.cid-s8JGoou5ra .card .wrapper {
+  overflow: hidden;
+}
+.cid-s8JGoou5ra .card .wrapper .mbr-section-title {
   color: #06182d;
 }
-.cid-s8eKmoJSbp .card .wrapper .mbr-section-title span {
+.cid-s8JGoou5ra .card .wrapper .mbr-section-title span {
   line-height: 1;
   color: #ffffff;
   padding: 0 6px 1px 5px;
@@ -2679,80 +2674,45 @@ a {
   letter-spacing: 0;
   position: relative;
 }
-.cid-s8eKmoJSbp .card .wrapper .mbr-section-subtitle {
+.cid-s8JGoou5ra .card .wrapper .mbr-section-subtitle {
   color: #06182d;
 }
-.cid-s8eKmoJSbp .card .wrapper .mbr-section-subtitle.display-7 {
+.cid-s8JGoou5ra .card .wrapper .mbr-section-subtitle.display-7 {
   letter-spacing: 0;
 }
-.cid-s8eKmoJSbp .card .wrapper .mbr-text {
+.cid-s8JGoou5ra .card .wrapper .mbr-text {
   color: #61728a;
   font-weight: 300;
 }
-.cid-s8eKmoJSbp .card .wrapper .mbr-list {
-  margin-top: 20px;
-  color: #606060;
-}
-.cid-s8eKmoJSbp .card .wrapper .mbr-list .list {
-  list-style-type: none;
-  padding-left: 0;
-}
-.cid-s8eKmoJSbp .card .wrapper .mbr-list .list li {
-  line-height: 1.75;
-  padding-top: 5px;
-  padding-bottom: 5px;
-}
-.cid-s8eKmoJSbp .card .wrapper .mbr-list .list li:before {
-  font-weight: 900;
-  color: #ff4e3c;
-  display: inline-block;
-  content: "\e97c";
-  font-family: 'Moririse2' !important;
+.cid-s8JGoou5ra .card .wrapper .sign-wrap {
   text-align: center;
-  line-height: 1.5em;
-  transition: all 0.3s;
-  width: 25px;
-  height: 25px;
-  margin-right: 15px;
-}
-.cid-s8eKmoJSbp .card .wrapper .link-wrap {
-  width: 100%;
-}
-.cid-s8eKmoJSbp .card .wrapper .link-wrap .link {
+  overflow: hidden;
   position: relative;
-  cursor: pointer;
-  letter-spacing: 1px;
+}
+.cid-s8JGoou5ra .card .wrapper .sign-wrap::before {
+  right: 65.8%;
+  height: 2px;
+  transform: translateY(-50%);
+  width: 250px;
+  top: 50%;
+  position: absolute;
   display: inline-block;
-  width: fit-content;
-  transition: all 0.3s;
-  transition-delay: 0.15s;
-  text-align: left;
+  content: "";
+  background-color: #dfe3e8;
 }
-.cid-s8eKmoJSbp .card .wrapper .link-wrap .link:after {
-  content: '';
+.cid-s8JGoou5ra .card .wrapper .sign-wrap img {
+  width: 140px;
+}
+.cid-s8JGoou5ra .card .wrapper .sign-wrap::after {
+  left: 65.9%;
+  height: 2px;
+  transform: translateY(-50%);
+  width: 250px;
+  top: 50%;
   position: absolute;
-  height: 1px;
-  width: 100%;
-  background: currentColor;
-  bottom: -6px;
-  opacity: 0.2;
-  left: 0;
-}
-.cid-s8eKmoJSbp .card .wrapper .link-wrap .link:before {
-  content: '';
-  position: absolute;
-  height: 1px;
-  width: 0;
-  transition: all 0.4s ease-in-out;
-  background: currentColor;
-  bottom: -6px;
-  left: auto;
-  right: 0;
-}
-.cid-s8eKmoJSbp .card .wrapper .link-wrap .link:hover:before {
-  width: 100%;
-  right: auto;
-  left: 0;
+  display: inline-block;
+  content: "";
+  background-color: #dfe3e8;
 }
 .cid-s8eJfjs2Ik {
   padding-top: 45px;
