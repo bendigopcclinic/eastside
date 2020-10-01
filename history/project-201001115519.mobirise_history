@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Eastside Tyre and Auto",
-    "currentPage": "index.html",
+    "currentPage": "lsperformance.html",
     "theme": {
       "name": "carm4",
       "title": "CarM4",
@@ -1668,7 +1668,7 @@
     },
     "contactus.html": {
       "settings": {
-        "title": "Contact us - Eastside Tyre & Auto",
+        "title": "Contact - Eastside Tyre &amp; Auto",
         "order": 3
       },
       "components": [
@@ -2364,7 +2364,7 @@
     },
     "services.html": {
       "settings": {
-        "title": "Garage Service - Eastside Tyre & Auto",
+        "title": "Garage Service- Eastside Tyre &amp; Auto",
         "order": 2
       },
       "components": [
